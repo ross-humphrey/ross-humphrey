@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ross-humphrey
-- 👀 I’m interested in AWS, SaaS, Python and Building product!
-- 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on SaaS projects and scaling businesses using AWS
+- 👀 I’m interested in Machine Learning, helping businesses achieve amazing things with AI/ML
+- 💞️ I’m looking to collaborate on AI/ML projects together.
 - 📫 How to reach me ... add me on linkedin @ https://www.linkedin.com/in/rosshumphreyuk/ 
 
 <!---
